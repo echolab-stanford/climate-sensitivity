@@ -23,4 +23,4 @@ Replication repository for the study: *"No consistent evidence society is becomi
 
 6. **Outputs** from each script will be saved under:
    - `fig/main/`
-   - `fig/supplementary/` (if applicable)
+   - `fig/supplementary/`
