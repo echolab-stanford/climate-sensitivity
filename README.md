@@ -1,9 +1,9 @@
 # climate-sensitivity
 
-## Replication repository for the study: "No consistent evidence society is becoming less sensitive to climate""
+Replication repository for the study: *"No consistent evidence society is becoming less sensitive to climate""*
 
 
-**How to Replicate Results**
+### How to Replicate Results**
 
 1. **Download or clone this repository.**
 
